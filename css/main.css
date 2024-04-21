@@ -127,7 +127,7 @@ background-image:url('..//imgs/ref.png');
 
 
 .about-left-content > div{
-    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url('..//imgs/35.jpg');
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url('..//images/yes.png');
     background-size: cover;
     padding: 4rem 4rem 2.5rem 5rem;
     text-align: center;
