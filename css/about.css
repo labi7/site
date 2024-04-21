@@ -457,7 +457,7 @@ section{
 @media (max-width:450px){
 
    html{
-      font-size: 27%;
+      font-size: 45%;
    }
    
 
@@ -470,7 +470,7 @@ section{
    }
 
    .about .row .image img{
-      width: 70%;
+      width: 85%;
       
    }
 
