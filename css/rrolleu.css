@@ -444,7 +444,7 @@ section{
 @media (max-width:450px){
 
    html{
-      font-size: 50%;
+      font-size: 45%;
    }
 
    .header .flex .logo{
@@ -456,7 +456,7 @@ section{
    }
 
    .about .row .image img{
-      width: 100%;
+      width: 85%;
    }
 
    .gallery img{
