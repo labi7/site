@@ -85,6 +85,10 @@ section{
    justify-content: space-between;
    gap: 1.5rem;
 }
+.content2 {
+   font-size: 130%;
+   margin-top: 30px;
+}
 
 .header .flex .logo{
     
